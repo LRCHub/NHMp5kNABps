@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Show Me All You Got",
+  "base_artist": "aimyon",
+  "createdAt": "2026-03-20T06:30:09.023077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Show Me All You Got",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_Show_Me_All_You_Got_Aimyon.lrc"
+    }
+  ]
+}
